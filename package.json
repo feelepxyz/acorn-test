@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "acorn": "^7.1.1",
-    "extend": "^2.0.2"
+    "extend": "^3.0.2"
   }
 }
